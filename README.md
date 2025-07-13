@@ -1,182 +1,3 @@
-Edge Based AI-Tumor spotter for pathological slides with AR overlay
-<think>
-
-- *Processing your query...*
-
-- *We’ll explore high quality, insightful sources to find great answers for your query.*
-
-- *Setting up a search plan to decide where to look for your query*
-
-- *Coming up with some clever questions...*
-
-- *We’re tackling 6 questions this time.*
-
-- *Searching far and wide... Looking into web pages, academic papers, and news articles.*
-
-- *Visiting Top AI Use-Cases in Life Sciences Industry [2025 Guide]*
-
-[appwrk.com](https://appwrk.com/insights/top-ai-use-cases-in-life-sciences)
-
-- *Visiting AI-Powered Healthcare Patents: The Numbers Behind AI in Drug ...*
-
-[patentpc.com](https://patentpc.com/blog/ai-powered-healthcare-patents-the-numbers-behind-ai-in-drug-discovery-diagnosis)
-
-- *Visiting AI for Healthcare - SDLC Corp*
-
-[sdlccorp.com](https://sdlccorp.com/post/ai-for-healthcare/)
-
-- *Visiting Patho-AI: A Perceptive Breast Cancer Identification and ...*
-
-[link.springer.com](https://link.springer.com/article/10.1007/s42979-025-04170-3)
-
-- *Visiting The State of AI in Healthcare: Market Growth and Key Stats | PatentPC*
-
-[patentpc.com](https://patentpc.com/blog/the-state-of-ai-in-healthcare-market-growth-and-key-stats)
-
-- *Visiting Articles Home | New Era Technology*
-
-[digital.neweratech.com](https://digital.neweratech.com/articles)
-
-- *Visiting ADPv2: A Hierarchical Histological Tissue Type-Annotated Dataset ...*
-
-[arxiv.org](https://arxiv.org/html/2507.05656v1)
-
-- *Visiting 4KAgent: Agentic Any Image to 4K Super-Resolution - arXiv*
-
-[arxiv.org](https://arxiv.org/html/2507.07105v1)
-
-- *Visiting PathAI Introduces TumorDetect on AISight*
-
-[www.pathai.com](https://www.pathai.com/resources/pathai-introduces-tumordetect-an-ai-solution-to-automate-tumor-assessment-and-case-prioritization-for-anatomic-pathology-laboratories/)
-
-- *Visiting AI in Histopathology Explorer for comprehensive analysis of the ...*
-
-[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11904230/)
-
-- *Visiting An augmented reality microscope with real-time artificial intelligence ...*
-
-[go.gale.com](https://go.gale.com/ps/i.do?id=GALE%7CA598957117&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10788956&p=HRCA&sw=w)
-
-- *Visiting Digital Pathology and Artificial Intelligence Applications in Pathology*
-
-[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9098984/)
-
-- *Visiting AI-Enabled Microscopes Could Bring More Timely, Accurate Cancer ...*
-
-[www.diu.mil](https://www.diu.mil/latest/augmented-reality-microscope)
-
-- *Visiting Accelerating histopathology workflows with generative AI-based ...*
-
-[www.nature.com](https://www.nature.com/articles/s42256-024-00889-5)
-
-- *Visiting Multimodal Artificial Intelligence in Medical Diagnostics - MDPI*
-
-[www.mdpi.com](https://www.mdpi.com/2078-2489/16/7/591)
-
-- *Visiting Deep learning quantifies pathologists' visual patterns for whole slide ...*
-
-[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12214614/)
-
-- *Visiting An enhanced deep learning model for accurate classification of ...*
-
-[www.nature.com](https://www.nature.com/articles/s41598-025-07903-9)
-
-- *Visiting Implementing Artificial Intelligence in Critical Care Medicine*
-
-[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12239397/)
-
-- *Visiting Robotics News - ScienceDaily*
-
-[www.sciencedaily.com](https://www.sciencedaily.com/news/computers_math/robotics/)
-
-- *Visiting Cosmetic Surgery News - ScienceDaily*
-
-[www.sciencedaily.com](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/)
-
-- *Visiting AI | Technology | In a leaked internal chat reported by Tom's ...*
-
-[www.instagram.com](https://www.instagram.com/p/DMA29ZMtyoP/)
-
-- *Visiting Drug trafficking: Duo from Brazil held in Kochi - Times of India*
-
-[timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/city/kochi/drug-trafficking-duo-from-brazil-held-in-kochi/articleshow/122409854.cms)
-
-- *Visiting OpenAI's planned $3 billion takeover of AI coding startup Windsurf is ...*
-
-[www.instagram.com](https://www.instagram.com/p/DMDRYkytdUQ/)
-
-- *Found 25 sources from web search. We're checking these sources for more details...*
-
-- *Digging into what we found...Checking the content for fresh ideas on the topic.*
-
-- *Making sure we’re on the right track...*
-
-- *We are moving in good direction!*
-
-- *Looking for new ideas from the generated content...*
-
-- *Next we’ll explore: 10 new topics.*
-
-- *Pulling everything together... Mixing 25 pieces of info into a neat summary.*
-
-- *We’re tackling 10 questions this time.*
-
-- *Searching far and wide... Looking into web pages, academic papers, and news articles.*
-
-- *Visiting [PDF] Integrating Spatial Computing with Clinical Pathology for Enhanced ...*
-
-[joiv.org](https://joiv.org/index.php/joiv/article/download/2951/1092)
-
-- *Visiting Artificial intelligence entering the pathology arena in oncology*
-
-[www.annalsofoncology.org](https://www.annalsofoncology.org/article/S0923-7534(25)00112-7/pdf)
-
-- *Visiting AI in Computational Pathology - by Syed Nauyan Rashid*
-
-[medium.com](https://medium.com/red-buffer/ai-in-computational-pathology-d05d8f9f3c03)
-
-- *Visiting How Lunit SCOPE finds and categorizes cells in histology ...*
-
-[medium.com](https://medium.com/lunit/how-lunit-scope-finds-and-categorizes-cells-in-histology-images-6bb7fdf6cb8a)
-
-- *Visiting From Patches to Slides: How to Train Deep Learning ...*
-
-[medium.com](https://medium.com/data-science/from-patches-to-slides-how-to-train-deep-learning-models-on-gigapixel-images-with-weak-supervision-d2cd2081cfd7)
-
-- *Visiting Multiple Instance Learning (MIL) and its utility in Whole ...*
-
-[medium.com](https://medium.com/@minhkhangle.phd/multiple-instance-learning-mil-and-its-utility-in-whole-slide-image-wsi-analyses-3acb67f5434b)
-
-- *Visiting Unsupervised Pathology Whole Slide Image ...*
-
-[link.medium.com](https://link.medium.com/p2mebC9HMcb)
-
-- *Visiting Applications of deep-learning based Histopathological ...*
-
-[sieunpark77.medium.com](https://sieunpark77.medium.com/a-survey-on-deep-learning-in-cell-microscopy-for-oncology-a8a38519551d)
-
-- *Visiting Histopathological Cancer Detection with Deep Neural ...*
-
-[medium.com](https://medium.com/data-science/histopathological-cancer-detection-with-deep-neural-networks-3399be879671)
-
-- *Visiting Detecting Cancer Growth Using AI and Computer Vision*
-
-[medium.com](https://medium.com/data-science/detecting-cancer-growth-using-ai-and-computer-vision-c88e985f450e)
-
-- *Visiting Stain estimation on microscopy whole slide images*
-
-[medium.com](https://medium.com/data-science/stain-estimation-on-microscopy-whole-slide-images-2b5a57062268)
-
-- *Found 7 sources from web search. We're checking these sources for more details...*
-
-- *We are done with our research! Its Time to wrap things up.*
-
-- *We’re finished researching.. Took us 32.2 seconds for research. We’ll send you a summary of our findings shortly.*
-
-- *Connecting to LLM...*
-
-</think>
-
 ## Edge-Based AI Tumor Detection on Pathological Slides with Augmented Reality Overlay: A Comprehensive Research Report
 
 ### Executive Summary
@@ -403,17 +224,17 @@ Edge-based AI for tumor detection on pathological slides with augmented reality 
 
 ### References
 
-*   APPWRK. (2025). *Top AI Use-Cases in Life Sciences Industry [2025 Guide]* [https://appwrk.com/insights/top-ai-use-cases-in-life-sciences](https://appwrk.com/insights/top-ai-use-cases-in-life-sciences)
-*   Jandoubi, B., & Akhloufi, M. A. (2025). *Multimodal Artificial Intelligence in Medical Diagnostics*. *Information*, *16*(7), 591. [https://doi.org/10.3390/info16070591](https://doi.org/10.3390/info16070591)
-*   Massachusetts Institute of Technology. (2025). *Emergency delivery of particulate drugs by active ejection using in vivo wireless devices*. *Nature Biomedical Engineering*. [https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/) DOI: [10.1038/s41551-025-01436-2](http://dx.doi.org/10.1038/s41551-025-01436-2)
-*   PathAI. (n.d.). *PathAI Introduces TumorDetect on AISight*. [https://www.pathai.com/resources/pathai-introduces-tumordetect-an-ai-solution-to-automate-tumor-assessment-and-case-prioritization-for-anatomic-pathology-laboratories/](https://www.pathai.com/resources/pathai-introduces-tumordetect-an-ai-solution-to-automate-tumor-assessment-and-case-prioritization-for-anatomic-pathology-laboratories/)
-*   ScienceDaily. (n.d.). *Robotics News*. [https://www.sciencedaily.com/news/computers_math/robotics/](https://www.sciencedaily.com/news/computers_math/robotics/)
-*   Suriawinata, A. A., et al. (2025). *ADPv2: A Hierarchical Histological Tissue Type-Annotated Dataset*. [https://arxiv.org/html/2507.05656v1](https://arxiv.org/html/2507.05656v1)
-*   Tan, L. B. (2025). *Intel CEO Admits Company is No Longer Among Top 10*. Tom's Hardware.
-*   Unknown. (n.d.). *Digital Pathology and Artificial Intelligence Applications in Pathology*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9098984/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9098984/)
-*   Unknown. (n.d.). *AI in Histopathology Explorer for comprehensive analysis of the*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11904230/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11904230/)
-*   Unknown. (n.d.). *Integrating Spatial Computing with Clinical Pathology for Enhanced*. [https://joiv.org/index.php/joiv/article/download/2951/1092](https://joiv.org/index.php/joiv/article/download/2951/1092)
-*   Unknown. (n.d.). *Deep learning quantifies pathologists' visual patterns for whole slide*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC12214614/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12214614/)
-*   Unknown. (n.d.). *An augmented reality microscope with real-time artificial intelligence*. [https://go.gale.com/ps/i.do?id=GALE%7CA598957117&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10788956&p=HRCA&sw=w](https://go.gale.com/ps/i.do?id=GALE%7CA598957117&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10788956&p=HRCA&sw=w)
-*   Unknown. (n.d.). *An enhanced deep learning model for accurate classification of*. [https://www.nature.com/articles/s41598-025-07903-9](https://www.nature.com/articles/s41598-025-07903-9)
+1. APPWRK. (2025). *Top AI Use-Cases in Life Sciences Industry [2025 Guide]* [https://appwrk.com/insights/top-ai-use-cases-in-life-sciences](https://appwrk.com/insights/top-ai-use-cases-in-life-sciences)
+2. Jandoubi, B., & Akhloufi, M. A. (2025). *Multimodal Artificial Intelligence in Medical Diagnostics*. *Information*, *16*(7), 591. [https://doi.org/10.3390/info16070591](https://doi.org/10.3390/info16070591)
+3. Massachusetts Institute of Technology. (2025). *Emergency delivery of particulate drugs by active ejection using in vivo wireless devices*. *Nature Biomedical Engineering*. [https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/) DOI: [10.1038/s41551-025-01436-2](http://dx.doi.org/10.1038/s41551-025-01436-2)
+4. PathAI. (n.d.). *PathAI Introduces TumorDetect on AISight*. [https://www.pathai.com/resources/pathai-introduces-tumordetect-an-ai-solution-to-automate-tumor-assessment-and-case-prioritization-for-anatomic-pathology-laboratories/](https://www.pathai.com/resources/pathai-introduces-tumordetect-an-ai-solution-to-automate-tumor-assessment-and-case-prioritization-for-anatomic-pathology-laboratories/)
+5. ScienceDaily. (n.d.). *Robotics News*. [https://www.sciencedaily.com/news/computers_math/robotics/](https://www.sciencedaily.com/news/computers_math/robotics/)
+6. Suriawinata, A. A., et al. (2025). *ADPv2: A Hierarchical Histological Tissue Type-Annotated Dataset*. [https://arxiv.org/html/2507.05656v1](https://arxiv.org/html/2507.05656v1)
+7. Tan, L. B. (2025). *Intel CEO Admits Company is No Longer Among Top 10*. Tom's Hardware.
+8. *Digital Pathology and Artificial Intelligence Applications in Pathology*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9098984/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9098984/)
+9. Unknown. (n.d.). *AI in Histopathology Explorer for comprehensive analysis of the*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11904230/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11904230/)
+10. Unknown. (n.d.). *Integrating Spatial Computing with Clinical Pathology for Enhanced*. [https://joiv.org/index.php/joiv/article/download/2951/1092](https://joiv.org/index.php/joiv/article/download/2951/1092)
+11. Unknown. (n.d.). *Deep learning quantifies pathologists' visual patterns for whole slide*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC12214614/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12214614/)
+12. Unknown. (n.d.). *An augmented reality microscope with real-time artificial intelligence*. [https://go.gale.com/ps/i.do?id=GALE%7CA598957117&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10788956&p=HRCA&sw=w](https://go.gale.com/ps/i.do?id=GALE%7CA598957117&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10788956&p=HRCA&sw=w)
+13. Unknown. (n.d.). *An enhanced deep learning model for accurate classification of*. [https://www.nature.com/articles/s41598-025-07903-9](https://www.nature.com/articles/s41598-025-07903-9)
 
